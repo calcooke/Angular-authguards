@@ -1,0 +1,7 @@
+{
+  "name": "navguard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
